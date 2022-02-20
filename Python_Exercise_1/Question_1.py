@@ -1,0 +1,44 @@
+#Question 1:¶
+#There are two numbers given below. Print the sum of these numbers if their product is greater than 100. Otherwise, print their product.
+a = 15
+b = 12
+
+# Add two numbers
+add = a + b
+print(add)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
